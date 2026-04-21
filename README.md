@@ -22,7 +22,6 @@ This project demonstrates end-to-end Business Analyst documentation for an E-Com
 
 * 📄 BRD: ./BRD_Ecommerce_OMS.pdf
 * 📄 FRD: ./FRD_Ecommerce_OMS.pdf
-* 📄 Process Flow: ./Process_Flow_Ecommerce_OMS.pdf
 
 ---
 
@@ -57,7 +56,7 @@ This project demonstrates end-to-end Business Analyst documentation for an E-Com
 
 ## 🚀 My Approach
 
-I created a real-world e-commerce scenario and identified key stakeholders and processes. Based on this, I documented business requirements (BRD) and converted them into functional requirements (FRD) with clear process flows.
+I created a real-world e-commerce scenario and identified key stakeholders and processes. Based on this, I documented business requirements (BRD) and converted them into functional requirements (FRD). 
 
 ---
 

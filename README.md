@@ -16,7 +16,19 @@ This project demonstrates end-to-end Business Analyst documentation for an E-Com
 * Create BRD and FRD documents
 * Demonstrate Business Analyst skills
 
+  
+## 📊 Business Value
+
+This system helps streamline order processing, reduce manual errors, and improve customer experience by enabling efficient order tracking, payment handling, and order fulfillment.
+
 ---
+
+## 🧾 Sample User Stories
+
+- As a customer, I want to place an order so that I can purchase products online  
+- As a customer, I want to track my order so that I can check delivery status  
+- As an admin, I want to manage orders so that I can ensure smooth processing  
+
 
 ## 📄 Documents
 
@@ -41,7 +53,7 @@ This project demonstrates end-to-end Business Analyst documentation for an E-Com
 * Lucidchart
 * JIRA (conceptual)
 * Confluence (conceptual)
-
+* Process flow
 ---
 
 ## Key Skills Demonstrated
